@@ -1,0 +1,28 @@
+name: bright_qr
+description: A Flutter package that automatically manages device brightness when scanning QR codes. Automatically sets brightness to maximum when a QR code is opened and restores it to the original value when disposed.
+version: 1.0.0
+homepage: https://github.com/yourusername/bright_qr
+repository: https://github.com/yourusername/bright_qr
+issue_tracker: https://github.com/yourusername/bright_qr/issues
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+  flutter: '>=2.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: dev.bright_qr.bright_qr
+        pluginClass: BrightQrPlugin
+      ios:
+        pluginClass: BrightQrPlugin
