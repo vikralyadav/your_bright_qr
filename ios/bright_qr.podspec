@@ -11,9 +11,9 @@ A Flutter package that automatically manages device brightness when handling QR 
 is opened, brightness is automatically set to maximum for better scanning experience, and restored to
 its original value when disposed.
                        DESC
-  s.homepage         = 'https://github.com/yourusername/bright_qr'
+  s.homepage         = 'https://github.com/vikralyadav/bright_qr'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Name' => 'your.email@example.com' }
+  s.author           = { 'Your Name' => 'yadavvikral' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'

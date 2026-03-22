@@ -4,11 +4,11 @@ A Flutter package that automatically manages device brightness when handling QR 
 
 ## Features
 
-- 🌟 Automatically sets brightness to maximum when QR code scanner opens
-- 🔄 Restores original brightness when QR code is disposed
-- 📱 Works on both Android and iOS
-- 🔧 Easy-to-use API with platform channel integration
-- ⚡ Non-blocking, efficient brightness management
+-  Automatically sets brightness to maximum when QR code scanner opens
+-  Restores original brightness when QR code is disposed
+-  Works on both Android and iOS
+-  Easy-to-use API with platform channel integration
+-  Non-blocking, efficient brightness management
 
 ## Installation
 
@@ -178,8 +178,8 @@ This package is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Created with ❤️ for Flutter developers
+Created with ❤️ for Flutter developers by yadavVikral
 
 ## Support
 
-For issues or questions, please visit [GitHub Issues](https://github.com/yourusername/bright_qr/issues)
+For issues or questions, please visit [GitHub Issues](https://github.com/vikralyadav/bright_qr/issues)
