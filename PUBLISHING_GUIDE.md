@@ -30,7 +30,7 @@ Update the iOS podspec file (`ios/bright_qr.podspec`) with your information:
 
 ```ruby
 s.author           = { 'Vikral Yadav' => 'yadavvikral2003@gmail.com' }
-s.homepage         = 'https://github.com/yourusername/bright_qr'
+s.homepage         = 'https://github.com/vikralyadavyour_bright_qr'
 ```
 
 ### 1.3 Documentation
@@ -54,15 +54,7 @@ Ensure your `README.md` is comprehensive and includes:
 
 ### 2.2 Push Your Package Code
 
-```bash
-cd your_bright_qr
-git init
-git add .
-git commit -m "Initial commit: Bright QR package"
-git branch -M main
-git remote add origin https://github.com/yourusername/bright_qr.git
-git push -u origin main
-```
+
 
 ### 2.3 Create a GitHub Release
 
