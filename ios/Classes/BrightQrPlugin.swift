@@ -15,11 +15,11 @@ public class BrightQrPlugin: NSObject, FlutterPlugin {
     }
 
     public static func dummyMethodToEnforceBundling() {
-        // This function is called by the Flutter engine to ensure this plugin is bundled
+      
     }
 
     public func dummyMethodCall() {
-        // Dummy method to prevent dead code warning
+    
     }
 
     public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
